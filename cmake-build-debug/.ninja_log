@@ -1,0 +1,27 @@
+# ninja log v5
+17	319	7045720749573753	CMakeFiles/OMS.dir/src/companyList.cpp.obj	4d6f48607080dedd
+10	383	7045755086609117	CMakeFiles/OMS.dir/src/menu.cpp.obj	872f8476f95f4661
+11	2195	7044886408466221	CMakeFiles/OMS.dir/src/order.cpp.obj	d9a2dc2b0aa3a2bd
+17	386	7045755086639101	CMakeFiles/OMS.dir/src/orderList.cpp.obj	7bc3d178aeb82abd
+613	746	7045755090193376	OMS.exe	1a9f0fb397e5cdf6
+11	529	7044536257844797	CMakeFiles/OMS.dir/src/admin.cpp.obj	73ff55b88141ec93
+41	687	7039683511267927	CMakeFiles/OMS.dir/src/listNode.cpp.obj	5549dd6c6d54ba3d
+18	443	7039730531265540	CMakeFiles/OMS.dir/src/file.cpp.obj	eb0855d800f4c23e
+3	613	7045755088901386	CMakeFiles/OMS.dir/src/main.cpp.obj	3ee2d7b47f7ef235
+33	686	7039683511267927	CMakeFiles/OMS.dir/src/list.cpp.obj	1034404388faf0ef
+41	494	7044536257488443	CMakeFiles/OMS.dir/src/company.cpp.obj	3f80181512ef67c2
+1	197	7061281859385714	build.ninja	196f9a7357ebc47d
+3	448	7041387509468934	CMakeFiles/OMS.dir/src/ma.cpp.obj	3d571a72be916003
+36	1168	7061290506891455	CMakeFiles/OMS.dir/src/user.cpp.obj	c697e7c229f21a77
+29	1170	7061290506901231	CMakeFiles/OMS.dir/src/company.cpp.obj	3f80181512ef67c2
+11	1171	7061290506910579	CMakeFiles/OMS.dir/src/admin.cpp.obj	73ff55b88141ec93
+20	1171	7061290506901231	CMakeFiles/OMS.dir/src/companyList.cpp.obj	4d6f48607080dedd
+3	1196	7061290507161339	CMakeFiles/OMS.dir/src/main.cpp.obj	3ee2d7b47f7ef235
+1196	1696	7061290512133902	OMS.exe	4c2dca4dc62de092
+19	3118	7063478432940684	CMakeFiles/OMS.dir/src/orderList.cpp.obj	7bc3d178aeb82abd
+13	3119	7063478432950678	CMakeFiles/OMS.dir/src/order.cpp.obj	d9a2dc2b0aa3a2bd
+3	3141	7063478433183565	CMakeFiles/OMS.dir/src/main.cpp.obj	3ee2d7b47f7ef235
+3141	4997	7063478451714372	OMS.exe	4c2dca4dc62de092
+11	342	7063612226100490	CMakeFiles/OMS.dir/src/orderList.cpp.obj	7bc3d178aeb82abd
+3	563	7063612228304902	CMakeFiles/OMS.dir/src/main.cpp.obj	3ee2d7b47f7ef235
+563	689	7063612229526819	OMS.exe	4c2dca4dc62de092

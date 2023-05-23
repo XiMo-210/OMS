@@ -1,0 +1,3 @@
+C:/Users/XiMo/CLionProjects/OMS/cmake-build-debug/CMakeFiles/OMS.dir
+C:/Users/XiMo/CLionProjects/OMS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/XiMo/CLionProjects/OMS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
